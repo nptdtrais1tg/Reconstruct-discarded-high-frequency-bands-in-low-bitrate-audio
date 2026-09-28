@@ -32,5 +32,5 @@
 ## Credits
 * **Institution:** School of Electrical and Electronic Engineering, Hanoi University of Science and Technology[cite: 3].
 * **Course:** [ET4262E] Multimedia Data Compression and Coding[cite: 3].
-* **Students:** Nguyen Phuong Anh (202414634) & Nguyen Phuong Trang (202414668)[cite: 3].
+* **Students:** Nguyen Phuong Trang (202414668) & Nguyen Phuong Anh (202414605)[cite: 3].
 * **Instructor:** Pham Van Tien[cite: 3].
